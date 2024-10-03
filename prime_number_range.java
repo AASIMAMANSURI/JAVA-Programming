@@ -20,6 +20,6 @@ class prime_number_range{
         
     }
     public static void main(String[] args) {
-        febonaci_prime.prime();
+        prime_number_range.prime();
     }
 }
