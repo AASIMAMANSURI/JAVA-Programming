@@ -1,34 +1,34 @@
-import java.util.Scanner;
+class prime_number_range{
+   
+    static void prime()
+    {
+        int count = 0 ;
+      
+        int i=2;
+        while(count < 15)
+        {
+            boolean flag =true;
+            for(int j = 2 ;j<Math.sqrt(i);j++)
+            {
+                if( i % j == 0)
+                {
+                    flag =false;
+                    break;
+                  
+                }
+            }
+        
+            if (flag)
+            {
+                System.out.print(" " +i);
+                count++;
+            }
+            i++;
+        }
 
-class PrimeSeries{
-public static void main(String[] args)
-{
-Scanner input = new Scanner(System.in);
-System.out.println("enter the limit to find the prime num: ");
-int s;
-int l;
-s =input.nextInt();
-l = input.nextInt();
-
-for(int i = s ;i<l ;i++)
-{
-int flag =0;
-if(i >1)
-{
-for(int j =2 ;j<i ;j++)
-{
-if(i %j == 0)
-{
-flag=1;
-break;
-}
-
-}
-if(flag==0)
-{
-System.out.print(i + " , ");
-}
-}
-
-}
-}}
+    }
+    
+    public static void main(String[] args) {
+        prime_number_range.prime();
+    }
+}   
