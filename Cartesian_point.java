@@ -38,6 +38,10 @@ class Cartesian_point
     {
         System.out.println("current values of X and Y :  " + "(" + x +  " , " + y  + " )");
     }
+
+}
+class TeatCartesian_point{
+    
     public static void main(String[] args) {
 
         Cartesian_point obj = new Cartesian_point(12,45);
