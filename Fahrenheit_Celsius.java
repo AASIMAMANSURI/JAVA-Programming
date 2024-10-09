@@ -20,7 +20,7 @@
 	float cel = input.nextFloat();
 	
 //		float fe = (9/5) * cel +32;
-	float fe = cel * (9/5) +32
+	float fe = cel * (9/5) +32;
 	System.out.println("F : " + fe);
  }}
 	

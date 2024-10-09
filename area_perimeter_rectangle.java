@@ -17,7 +17,7 @@ class Area_Perameter{
 		
 		
 		int area = length * width;
-		System.out.print\n("Area of rectagle : " + area);
+		System.out.println("Area of rectagle : " + area);
 		
 		
 		int perimeter = (length + width) * 2;

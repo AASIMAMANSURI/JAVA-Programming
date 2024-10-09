@@ -53,39 +53,39 @@ class Circle{
 
 } 
 
-------------------------------------------------------------
-output: 
+// ------------------------------------------------------------
+// output: 
 
 
 
-C:\Users\rcc\Desktop>javac circle_area_circumference.java
+// C:\Users\rcc\Desktop>javac circle_area_circumference.java
 
-C:\Users\rcc\Desktop>java Circle
---------------------
-1. AREA OF CIRCLE .
-2. CIRCUMFERENCE OF CIRCLE.
-0. exit
---------------------
+// C:\Users\rcc\Desktop>java Circle
+// --------------------
+// 1. AREA OF CIRCLE .
+// 2. CIRCUMFERENCE OF CIRCLE.
+// 0. exit
+// --------------------
 
-1
-enter radius :
-22
-area of circle is : 1519.76
---------------------
-1. AREA OF CIRCLE .
-2. CIRCUMFERENCE OF CIRCLE.
-0. exit
---------------------
+// 1
+// enter radius :
+// 22
+// area of circle is : 1519.76
+// --------------------
+// 1. AREA OF CIRCLE .
+// 2. CIRCUMFERENCE OF CIRCLE.
+// 0. exit
+// --------------------
 
-2
-enter radius :
-2
-CIRCUMFERENCE of circle is : 12.56
---------------------
-1. AREA OF CIRCLE .
-2. CIRCUMFERENCE OF CIRCLE.
-0. exit
---------------------
+// 2
+// enter radius :
+// 2
+// CIRCUMFERENCE of circle is : 12.56
+// --------------------
+// 1. AREA OF CIRCLE .
+// 2. CIRCUMFERENCE OF CIRCLE.
+// 0. exit
+// --------------------
 
-0
-exit
+// 0
+// exit
