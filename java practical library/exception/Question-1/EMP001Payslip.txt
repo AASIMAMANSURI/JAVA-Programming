@@ -1,0 +1,9 @@
+employee Payslip
+======================
+Employee Number : EMP001
+Employee Name : yamin
+deignation  : developer 
+basic salary : 22000.0
+HRA : 1650.0
+DA : 1100.0
+Net salary : 24750.0

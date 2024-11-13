@@ -1,0 +1,9 @@
+employee Payslip
+======================
+Employee Number : EMP000
+Employee Name : aasima
+deignation  : developer 
+basic salary : 20000.0
+HRA : 1500.0
+DA : 1000.0
+Net salary : 22500.0
