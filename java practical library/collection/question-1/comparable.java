@@ -1,0 +1,4 @@
+
+public interface comparable<T> {
+
+}
